@@ -1,0 +1,9 @@
+{
+    "name": "nadin/hexlet",
+    "autoload": {
+        "psr-4": {
+            "Nadin\\Hexlet\\": "src/"
+        }
+    },
+    "require": {}
+}
